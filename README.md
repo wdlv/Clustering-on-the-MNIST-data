@@ -6,18 +6,23 @@ MNIST is the well known handwritten digits dataset intended for image classifica
 ## Demo:
 
 Eigenvalues:
+
 ![demo](https://github.com/woodenleaves/Clustering-on-the-MNIST-data/raw/master/cluster_classification.png)
 
 Kmeans:
+
 ![demo](https://github.com/woodenleaves/Clustering-on-the-MNIST-data/raw/master/kmeans.png)
 
 LDA:
+
 ![demo](https://github.com/woodenleaves/Clustering-on-the-MNIST-data/raw/master/lda.png)
 
 PCA:
+
 ![demo](https://github.com/woodenleaves/Clustering-on-the-MNIST-data/raw/master/pca.png)
 
 t-SNE
+
 ![demo](https://github.com/woodenleaves/Clustering-on-the-MNIST-data/raw/master/tsne.png)
 
 
