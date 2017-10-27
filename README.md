@@ -6,19 +6,19 @@ MNIST is the well known handwritten digits dataset intended for image classifica
 ## Demo:
 
 Eigenvalues:
-![demo](https://github.com/woodenleaves/Healthcare_Tweets/raw/master/images/cluster_classification.png)
+![demo](https://github.com/woodenleaves/Healthcare_Tweets/raw/master/cluster_classification.png)
 
 Kmeans:
-![demo](https://github.com/woodenleaves/Healthcare_Tweets/raw/master/images/kmeans.png)
+![demo](https://github.com/woodenleaves/Healthcare_Tweets/raw/master/kmeans.png)
 
 LDA:
-![demo](https://github.com/woodenleaves/Healthcare_Tweets/raw/master/images/lda.png)
+![demo](https://github.com/woodenleaves/Healthcare_Tweets/raw/master/lda.png)
 
 PCA:
-![demo](https://github.com/woodenleaves/Healthcare_Tweets/raw/master/images/pca.png)
+![demo](https://github.com/woodenleaves/Healthcare_Tweets/raw/master/pca.png)
 
 t-SNE
-![demo](https://github.com/woodenleaves/Healthcare_Tweets/raw/master/images/tsne.png)
+![demo](https://github.com/woodenleaves/Healthcare_Tweets/raw/master/tsne.png)
 
 
 http://woodenleaves.com/pages/cluster.html
